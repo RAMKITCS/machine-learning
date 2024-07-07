@@ -1,0 +1,1 @@
+My notes of this Machine Learning project
